@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Data files (large)
+*.txt
+!README*.txt
+!LICENSE
+!CONTRIBUTING.md
+!CHANGELOG.md
+!stop_words.txt
+
+# Output files
+*.xlsx
+*.xls
+*.db
+
+# Corpora (large)
+التصريفات والمشتقات/
+المحتوى من معجم العنقاء/
+المرسل للدكتور محمد رقاس/
+كشكول/
+
+# Logs
+*.log
+
